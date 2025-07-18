@@ -1,0 +1,88 @@
+  exercicio2 git:(main) ./testes.sh
+=== Iniciando testes com arquivos em ./instancias-num ===
+
+>>> Testando: ./instancias-num/num.1000.1.in
+Arquivo: ./instancias-num/num.1000.1.in
+Tempo Selection Sort: 859 microssegundos
+Tempo Insertion Sort: 658 microssegundos
+Resultado: Insertion Sort foi mais rápido.
+-----------------------------
+
+>>> Testando: ./instancias-num/num.1000.2.in
+Arquivo: ./instancias-num/num.1000.2.in
+Tempo Selection Sort: 1107 microssegundos
+Tempo Insertion Sort: 745 microssegundos
+Resultado: Insertion Sort foi mais rápido.
+-----------------------------
+
+>>> Testando: ./instancias-num/num.1000.3.in
+Arquivo: ./instancias-num/num.1000.3.in
+Tempo Selection Sort: 892 microssegundos
+Tempo Insertion Sort: 746 microssegundos
+Resultado: Insertion Sort foi mais rápido.
+-----------------------------
+
+>>> Testando: ./instancias-num/num.1000.4.in
+Arquivo: ./instancias-num/num.1000.4.in
+Tempo Selection Sort: 1732 microssegundos
+Tempo Insertion Sort: 11 microssegundos
+Resultado: Insertion Sort foi mais rápido.
+-----------------------------
+
+>>> Testando: ./instancias-num/num.10000.1.in
+Arquivo: ./instancias-num/num.10000.1.in
+Tempo Selection Sort: 94615 microssegundos
+Tempo Insertion Sort: 69013 microssegundos
+Resultado: Insertion Sort foi mais rápido.
+-----------------------------
+
+>>> Testando: ./instancias-num/num.10000.2.in
+Arquivo: ./instancias-num/num.10000.2.in
+Tempo Selection Sort: 87211 microssegundos
+Tempo Insertion Sort: 69304 microssegundos
+Resultado: Insertion Sort foi mais rápido.
+-----------------------------
+
+>>> Testando: ./instancias-num/num.10000.3.in
+Arquivo: ./instancias-num/num.10000.3.in
+Tempo Selection Sort: 83951 microssegundos
+Tempo Insertion Sort: 67606 microssegundos
+Resultado: Insertion Sort foi mais rápido.
+-----------------------------
+
+>>> Testando: ./instancias-num/num.10000.4.in
+Arquivo: ./instancias-num/num.10000.4.in
+Tempo Selection Sort: 84956 microssegundos
+Tempo Insertion Sort: 57 microssegundos
+Resultado: Insertion Sort foi mais rápido.
+-----------------------------
+
+>>> Testando: ./instancias-num/num.100000.1.in
+Arquivo: ./instancias-num/num.100000.1.in
+Tempo Selection Sort: 8762579 microssegundos
+Tempo Insertion Sort: 7303420 microssegundos
+Resultado: Insertion Sort foi mais rápido.
+-----------------------------
+
+>>> Testando: ./instancias-num/num.100000.2.in
+Arquivo: ./instancias-num/num.100000.2.in
+Tempo Selection Sort: 9133539 microssegundos
+Tempo Insertion Sort: 7451154 microssegundos
+Resultado: Insertion Sort foi mais rápido.
+-----------------------------
+
+>>> Testando: ./instancias-num/num.100000.3.in
+Arquivo: ./instancias-num/num.100000.3.in
+Tempo Selection Sort: 8976037 microssegundos
+Tempo Insertion Sort: 7467734 microssegundos
+Resultado: Insertion Sort foi mais rápido.
+-----------------------------
+
+>>> Testando: ./instancias-num/num.100000.4.in
+Arquivo: ./instancias-num/num.100000.4.in
+Tempo Selection Sort: 8647636 microssegundos
+Tempo Insertion Sort: 1239 microssegundos
+Resultado: Insertion Sort foi mais rápido.
+-----------------------------
+
+=== Fim dos testes ===
